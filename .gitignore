@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# YOLO / training outputs
+runs/
+
+# Model weights
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset
+Mask-Wearing-1/
+
+# Unrelated project
+opencv-basics/
